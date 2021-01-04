@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div.center-box{
     display: flex;
     justify-content: space-between;
@@ -22,4 +23,23 @@ ul li a{
     text-decoration: none;
     font-weight: 600;
 
+=======
+div.center-box{
+    outline: 1px dotted red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightblue;
+    color: white;
+}
+ul li{
+    display: inline-block;
+    color: white;
+    margin-right: 15px;
+}
+ul li a{
+    color: white;
+    text-decoration: none;  
+
+>>>>>>> 4c9bfc4a0b2d95b69206bd97947890dc8392ae64
 }
